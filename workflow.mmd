@@ -1,0 +1,17 @@
+graph LR
+    A[Load Data] --> B[Preprocess Text]
+    B --> C[Model Topics with LDA]
+    C --> D[Classify Papers]
+    D --> E[Generate Topic Names]
+    E --> F[Save Results]
+    F --> G[Analyze Authors]
+    G --> H[Visualize Topics]
+
+    style A fill:#f9f,stroke:#333,stroke-width:4px
+    style B fill:#f9f,stroke:#333,stroke-width:4px
+    style C fill:#f9f,stroke:#333,stroke-width:4px
+    style D fill:#f9f,stroke:#333,stroke-width:4px
+    style E fill:#f9f,stroke:#333,stroke-width:4px
+    style F fill:#f9f,stroke:#333,stroke-width:4px
+    style G fill:#f9f,stroke:#333,stroke-width:4px
+    style H fill:#f9f,stroke:#333,stroke-width:4px
