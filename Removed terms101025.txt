@@ -1,0 +1,167 @@
+Removed terms
+"system performance improvement"",",1
+"system reliability evaluation"",",1
+"system performance"",",1
+"system performance evaluation strategy"",",1
+"system capability"",",1
+"system performance evaluation framework"",",1
+"system performance evaluation technique"",",1
+"system performance evaluation approach"",",1
+"system condition"",",1
+"system performance evaluation software"",",1
+system performance evaluation software,1
+"system performance evaluation methodology"",",1
+"system performance management"",",1
+"system performance evaluation process"",",1
+"system analysis"",",1
+"system operation"",",1
+"system performance analysis"",",1
+"system performance assessment"",",1
+"system reliability index"",",1
+"system planning"",",1
+"system performance evaluation"",",1
+"system implementation"",",1
+"system smart grid"",",1
+"flexible ac transmission system"",",2
+"system integration"",",1
+"system performance monitoring"",",1
+"system testing"",",1
+"system monitoring"",",1
+"system protection"",",1
+"system performance evaluation system"",",1
+"system energy storage"",",1
+"system performance evaluation method"",",1
+"system resource"",",1
+"system analysis technique"",",1
+"system power system"",",1
+"system architecture"",",1
+"system management"",",1
+"system performance evaluation model"",",1
+"system design"",",1
+"system demand"",",1
+"system reliability assessment"",",1
+"system simulation result"",",1
+"system performance measurement"",",1
+"power optimization"",",2
+"system output"",",1
+"system performance evaluation tool"",",1
+"system renewable energy"",",1
+"system flexibility"",",1
+"system verification"",",1
+"system performance optimization"",",1
+"system grid"",",1
+"synchronous motor"",",2
+"system utilization"",",1
+"system performance enhancement"",",1
+"system optimization"",",1
+"system evaluation"",",1
+"multi-area"",",1
+"multi-channel"",",1
+"multi-antenna"",",1
+"multi-microgrid"",",1
+"multi-source"",",1
+"multi-criteria"",",1
+"multi-fidelity"",",1
+"multi-agent"",",1
+"multi-energy complementary"",",1
+"multi-dimensional"",",1
+"multi-objective"",",1
+"multi-faceted"",",1
+optimizer,1
+optimization process,1
+flexible ac transmission system,1
+optimization strategy,1
+visible light communication,1
+simulation performed,1
+"model formulation"",",1
+"model implementation"",",1
+"model description"",",1
+"model analysis system"",",1
+"model testing"",",1
+"model analysis method"",",1
+"model analysis process"",",1
+"energy management"",",1
+"model configuration"",",1
+"cost minimization"",",2
+"model evaluation"",",1
+"model calibration"",",1
+"model utilization"",",1
+"model optimization"",",1
+"resource allocation problem"",",1
+"model enhancement"",",1
+"model deployment"",",1
+"model refinement"",",1
+"model simulation"",",1
+"model adjustment"",",1
+"model assessment"",",1
+"model operation"",",1
+"model analysis approach"",",1
+"model analysis framework"",",1
+"model construction"",",1
+"model analysis procedure"",",1
+"model development"",",1
+"model verification"",",1
+"cost optimization"",",2
+"model analysis technique"",",1
+"energy-aware"",",1
+"model adaptation"",",1
+"model framework"",",1
+"model comparison"",",1
+"model integration"",",1
+"decision support system"",",1
+"model analysis methodology"",",1
+"dynamic resource"",",2
+"multi-agent system"",",1
+"model architecture"",",1
+"model design"",",1
+"model application"",",1
+"model structure"",",1
+"model prediction"",",1
+"model execution"",",1
+"model structure"",",1
+"model prediction"",",1
+"model execution"",",1
+"model performance"",",1
+"forecasting method"",",2
+"model validation"",",1
+"model analysis tool"",",1
+"model analysis strategy"",",1
+"model specification"",",1
+"model representation"",",1
+"model improvement"",",1
+"energy efficiency reliability"",",1
+"energy storage configuration"",",1
+"resource optimization"",",1
+dynamic resource,1
+"capacity gw"",",1
+"capacity assessment"",",1
+"capacity photovoltaic"",",1
+"capacity mahg"",",1
+"capacity improvement"",",1
+"capacity generation"",",1
+"capacity reduction"",",1
+"capacity power grid"",",1
+"capacity calculation"",",1
+"capacity storage"",",1
+"capacity benefit"",",1
+"capacity storage system"",",1
+"capacity evaluation"",",1
+"capacity utilization"",",1
+"capacity grid"",",1
+"capacity energy storage system"",",1
+"capacity control"",",1
+"capacity optimization"",",1
+"capacity limited"",",1
+"capacity electrical"",",1
+"cost allocation"",",1
+"capacity available"",",1
+"capacity increase"",",1
+"capacity thermal"",",1
+"capacity design"",",1
+"capacity planning"",",1
+"adaptive power"",",1
+"capacity need"",",1
+"capacity one"",",1
+"capacity management"",",1
+"cost effectiveness"",",1
+"capacity reserve"",",1

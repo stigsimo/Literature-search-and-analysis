@@ -1,0 +1,3 @@
+[LLM]
+OPENAI_API_KEY= # insert your api key after the =
+MODEL_TYPE=gpt-4o-mini # insert the prefered Openai model name here...
