@@ -6,6 +6,7 @@ dist/
 wheels/
 Saved_files/
 Saved_files_new
+archive/
 *.egg-info
 config_LLM.txt
 # Virtual environments
