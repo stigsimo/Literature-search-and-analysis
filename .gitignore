@@ -5,8 +5,14 @@ build/
 dist/
 wheels/
 Saved_files/
-Saved_files_new
+Saved_files_new/
+input_data/
 archive/
+large_scale_assessment/
+software_analysis_final/
+software_analysis_output/
+output/
+test_run/
 *.egg-info
 config_LLM.txt
 # Virtual environments
