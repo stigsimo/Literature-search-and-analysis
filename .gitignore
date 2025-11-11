@@ -12,7 +12,9 @@ large_scale_assessment/
 software_analysis_final/
 software_analysis_output/
 output/
+Comparison_outputs/
 test_run/
+gap_analysis/
 *.egg-info
 config_LLM.txt
 # Virtual environments
