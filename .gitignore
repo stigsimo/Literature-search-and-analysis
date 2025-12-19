@@ -21,3 +21,4 @@ method_name_analysis/
 config_LLM.txt
 # Virtual environments
 .venv
+Literature-search-and-analysis.code-workspace
