@@ -1,0 +1,87 @@
+{
+  "timestamp": "2025-12-20T22:47:26.391958",
+  "completed_pairs": [
+    [
+      "PLEXOS",
+      "bayesian compressed sensing"
+    ],
+    [
+      "POWSYBL",
+      "convex optimization"
+    ],
+    [
+      "PyPSA (Python for Power System Analysis)",
+      "loss of load duration"
+    ],
+    [
+      "eTerra",
+      "column generation"
+    ],
+    [
+      "GAMS",
+      "proximal policy optimization"
+    ],
+    [
+      "GAMS",
+      "asynchronous advantage actor-critic"
+    ],
+    [
+      "GridCal Sk",
+      "bayesian belief networks"
+    ],
+    [
+      "eTerra",
+      "bayesian compressed sensing"
+    ],
+    [
+      "CIMPLICITY Scada",
+      "bootstrap method"
+    ],
+    [
+      "Spectrum Power",
+      "metropolis-hastings"
+    ],
+    [
+      "NEPLAN",
+      "robust optimization"
+    ],
+    [
+      "PSAT",
+      "multi-agent reinforcement learning"
+    ],
+    [
+      "Gridview",
+      "dynamic pricing"
+    ],
+    [
+      "Gridview",
+      "real-time data analysis"
+    ],
+    [
+      "Gridview",
+      "naive bayes"
+    ],
+    [
+      "CIMPLICITY Scada",
+      "gibbs sampling"
+    ],
+    [
+      "Hitachi Network Manager",
+      "residual neural network"
+    ],
+    [
+      "Netbas",
+      "bayesian neural networks"
+    ],
+    [
+      "PLEXOS",
+      "evolution algorithm"
+    ],
+    [
+      "GAMS",
+      "multi-agent deep reinforcement learning"
+    ]
+  ],
+  "total_completed": 20,
+  "total_results": 20
+}

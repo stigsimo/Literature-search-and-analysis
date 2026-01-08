@@ -1,0 +1,2527 @@
+{
+  "timestamp": "2025-12-21T01:18:07.177123",
+  "completed_pairs": [
+    [
+      "OpenDSS",
+      "transient stability analysis"
+    ],
+    [
+      "Dynawo",
+      "bayesian information criterion"
+    ],
+    [
+      "PSAT",
+      "actor-critic methods"
+    ],
+    [
+      "DYMOLA",
+      "bayesian compressed sensing"
+    ],
+    [
+      "Matlab & Simulink",
+      "value function approximation"
+    ],
+    [
+      "GAMS",
+      "recurrent neural network"
+    ],
+    [
+      "Sienna",
+      "residual neural network"
+    ],
+    [
+      "CIMPLICITY Scada",
+      "variational bayesian"
+    ],
+    [
+      "TARA",
+      "multi-agent actor-critic"
+    ],
+    [
+      "Netbas",
+      "trust region policy optimization"
+    ],
+    [
+      "Dynawo",
+      "residual neural network"
+    ],
+    [
+      "MARS",
+      "deep reinforcement learning"
+    ],
+    [
+      "Trimble NIS",
+      "bayesian compressed sensing"
+    ],
+    [
+      "PyPSA (Python for Power System Analysis)",
+      "multi-energy complementary system"
+    ],
+    [
+      "Sienna",
+      "bootstrap method"
+    ],
+    [
+      "Aristo",
+      "bayesian compressed sensing"
+    ],
+    [
+      "Aristo",
+      "topology optimization"
+    ],
+    [
+      "eTerra",
+      "attention mechanism"
+    ],
+    [
+      "Gridview",
+      "metaheuristics"
+    ],
+    [
+      "TARA",
+      "large language model"
+    ],
+    [
+      "PSSE/SINCAL",
+      "bootstrap method"
+    ],
+    [
+      "TARA",
+      "transformer neural network"
+    ],
+    [
+      "Gridview",
+      "data-driven optimization"
+    ],
+    [
+      "Power Factory Digisilent",
+      "evolutionary algorithms"
+    ],
+    [
+      "GAMS",
+      "residual neural network"
+    ],
+    [
+      "NEPLAN",
+      "column generation"
+    ],
+    [
+      "TARA",
+      "evolutionary algorithms"
+    ],
+    [
+      "Matlab & Simulink",
+      "branch and bound"
+    ],
+    [
+      "CIMPLICITY Scada",
+      "bayesian regression"
+    ],
+    [
+      "PSS/E",
+      "evolutionary algorithms"
+    ],
+    [
+      "Hitachi Network Manager",
+      "continuation power flow"
+    ],
+    [
+      "Trimble NIS",
+      "evolutionary programming"
+    ],
+    [
+      "Power Factory Digisilent",
+      "optimal transmission switching"
+    ],
+    [
+      "POWSYBL",
+      "proximal policy optimization"
+    ],
+    [
+      "GAMS",
+      "bootstrap method"
+    ],
+    [
+      "TARA",
+      "polynomial chaos expansion"
+    ],
+    [
+      "Spectrum Power",
+      "robust optimization"
+    ],
+    [
+      "PSSE/SINCAL",
+      "hamiltonian monte carlo"
+    ],
+    [
+      "PyPower/Pandapower",
+      "asynchronous advantage actor-critic"
+    ],
+    [
+      "TARA",
+      "naive bayes"
+    ],
+    [
+      "PSS/E",
+      "polynomial chaos expansion"
+    ],
+    [
+      "Synergi Electric",
+      "evolutionary algorithms"
+    ],
+    [
+      "PSS/E",
+      "optimal transmission switching"
+    ],
+    [
+      "Spectrum Power",
+      "centralized training decentralized execution"
+    ],
+    [
+      "Aristo",
+      "loss of load probability"
+    ],
+    [
+      "DYMOLA",
+      "attention mechanism"
+    ],
+    [
+      "Aristo",
+      "analytic hierarchy process ahp"
+    ],
+    [
+      "PSS/E",
+      "variational bayesian"
+    ],
+    [
+      "PyPSA (Python for Power System Analysis)",
+      "deterministic policy gradient"
+    ],
+    [
+      "Dynawo",
+      "column generation"
+    ],
+    [
+      "Sienna",
+      "voltage scaling"
+    ],
+    [
+      "Netbas",
+      "naive bayes"
+    ],
+    [
+      "Trimble NIS",
+      "attention mechanism"
+    ],
+    [
+      "Matlab & Simulink",
+      "maximum a posteriori estimation"
+    ],
+    [
+      "PSSE/SINCAL",
+      "bayesian networks"
+    ],
+    [
+      "POWSYBL",
+      "value function approximation"
+    ],
+    [
+      "Aristo",
+      "attention mechanism"
+    ],
+    [
+      "PyPSA (Python for Power System Analysis)",
+      "multi-agent deep reinforcement learning"
+    ],
+    [
+      "MathPower",
+      "recurrent neural network"
+    ],
+    [
+      "Gridview",
+      "simulated annealing"
+    ],
+    [
+      "Netbas",
+      "variational bayesian"
+    ],
+    [
+      "Gridview",
+      "autoencoder"
+    ],
+    [
+      "Gridview",
+      "latin hypercube sampling"
+    ],
+    [
+      "MARS",
+      "particle filter"
+    ],
+    [
+      "Synergi Electric",
+      "variational bayesian"
+    ],
+    [
+      "OpenDSS",
+      "attention mechanism"
+    ],
+    [
+      "Aristo",
+      "power generation modeling"
+    ],
+    [
+      "PSSE/SINCAL",
+      "bayesian inference"
+    ],
+    [
+      "Power Factory Digisilent",
+      "transient stability analysis"
+    ],
+    [
+      "PSS/E",
+      "importance sampling"
+    ],
+    [
+      "POWSYBL",
+      "multi-agent reinforcement learning"
+    ],
+    [
+      "Aristo",
+      "neural network"
+    ],
+    [
+      "Spectrum Power",
+      "expectation maximization"
+    ],
+    [
+      "OpenDSS",
+      "particle filter"
+    ],
+    [
+      "TARA",
+      "bayesian regression"
+    ],
+    [
+      "Synergi Electric",
+      "importance sampling"
+    ],
+    [
+      "Gridview",
+      "state-space modeling"
+    ],
+    [
+      "eTerra",
+      "on-policy learning"
+    ],
+    [
+      "PyPSA (Python for Power System Analysis)",
+      "recurrent neural network"
+    ],
+    [
+      "PSAT",
+      "continuation power flow"
+    ],
+    [
+      "Matlab & Simulink",
+      "latin hypercube sampling"
+    ],
+    [
+      "Spectrum Power",
+      "bayesian neural networks"
+    ],
+    [
+      "PyPSA (Python for Power System Analysis)",
+      "hierarchical reinforcement learning"
+    ],
+    [
+      "POWSYBL",
+      "failure mode effects analysis"
+    ],
+    [
+      "POWSYBL",
+      "branch and bound"
+    ],
+    [
+      "Netbas",
+      "bayesian regression"
+    ],
+    [
+      "Aristo",
+      "graph neural network"
+    ],
+    [
+      "TARA",
+      "dc power flow"
+    ],
+    [
+      "Netbas",
+      "recurrent neural network"
+    ],
+    [
+      "TARA",
+      "bayesian information criterion"
+    ],
+    [
+      "GridLAB-D",
+      "naive bayes"
+    ],
+    [
+      "Sienna",
+      "gibbs sampling"
+    ],
+    [
+      "Sienna",
+      "bayesian model averaging"
+    ],
+    [
+      "Gridview",
+      "congestion management"
+    ],
+    [
+      "Trimble NIS",
+      "bayesian belief networks"
+    ],
+    [
+      "GridCal Sk",
+      "continuation power flow"
+    ],
+    [
+      "Hitachi Network Manager",
+      "transient stability analysis"
+    ],
+    [
+      "GridLAB-D",
+      "variational bayesian"
+    ],
+    [
+      "PSSE/SINCAL",
+      "bayesian model averaging"
+    ],
+    [
+      "OpenDSS",
+      "bayesian belief networks"
+    ],
+    [
+      "PLEXOS",
+      "injection shift factors"
+    ],
+    [
+      "Spectrum Power",
+      "cross validation"
+    ],
+    [
+      "PyPSA (Python for Power System Analysis)",
+      "loss of load duration"
+    ],
+    [
+      "Gridview",
+      "multi-fidelity model"
+    ],
+    [
+      "eTerra",
+      "bayesian deep learning"
+    ],
+    [
+      "DYMOLA",
+      "transfer learning"
+    ],
+    [
+      "POWSYBL",
+      "maximum a posteriori estimation"
+    ],
+    [
+      "Trimble NIS",
+      "multi-agent deep deterministic policy gradient"
+    ],
+    [
+      "DYMOLA",
+      "proximal policy optimization"
+    ],
+    [
+      "Gridview",
+      "bayesian automatic relevance determination"
+    ],
+    [
+      "PyPSA (Python for Power System Analysis)",
+      "bootstrap method"
+    ],
+    [
+      "Netbas",
+      "residual neural network"
+    ],
+    [
+      "GridLAB-D",
+      "importance sampling"
+    ],
+    [
+      "Trimble NIS",
+      "on-policy learning"
+    ],
+    [
+      "POWSYBL",
+      "hierarchical reinforcement learning"
+    ],
+    [
+      "PSSE/SINCAL",
+      "physics-informed neural networks"
+    ],
+    [
+      "MARS",
+      "multi-agent actor-critic"
+    ],
+    [
+      "Aristo",
+      "power quality assessment"
+    ],
+    [
+      "PSSE/SINCAL",
+      "advantage actor-critic"
+    ],
+    [
+      "PLEXOS",
+      "power spectral density"
+    ],
+    [
+      "GridLAB-D",
+      "bayesian regression"
+    ],
+    [
+      "GridLAB-D",
+      "extreme learning machine"
+    ],
+    [
+      "PyPSA (Python for Power System Analysis)",
+      "hamiltonian monte carlo"
+    ],
+    [
+      "GridLAB-D",
+      "recurrent neural network"
+    ],
+    [
+      "Spectrum Power",
+      "proximal policy optimization"
+    ],
+    [
+      "Gridview",
+      "demand response"
+    ],
+    [
+      "DYMOLA",
+      "large language model"
+    ],
+    [
+      "Matlab & Simulink",
+      "bayesian automatic relevance determination"
+    ],
+    [
+      "DYMOLA",
+      "bayesian deep learning"
+    ],
+    [
+      "Aristo",
+      "dynamic programming"
+    ],
+    [
+      "PLEXOS",
+      "adaptive modulation"
+    ],
+    [
+      "Power Factory Digisilent",
+      "particle filter"
+    ],
+    [
+      "Sienna",
+      "mixed-integer nonlinear programming"
+    ],
+    [
+      "PSS/E",
+      "particle filter"
+    ],
+    [
+      "GridLAB-D",
+      "bayesian information criterion"
+    ],
+    [
+      "PLEXOS",
+      "sequential quadratic programming"
+    ],
+    [
+      "PLEXOS",
+      "stochastic programming"
+    ],
+    [
+      "GAMS",
+      "multi-agent deep deterministic policy gradient"
+    ],
+    [
+      "PSAT",
+      "autoencoder"
+    ],
+    [
+      "PSAT",
+      "latin hypercube sampling"
+    ],
+    [
+      "GAMS",
+      "on-policy learning"
+    ],
+    [
+      "Hitachi Network Manager",
+      "bayesian automatic relevance determination"
+    ],
+    [
+      "eTerra",
+      "importance sampling"
+    ],
+    [
+      "MARS",
+      "multi-agent reinforcement learning"
+    ],
+    [
+      "DYMOLA",
+      "polynomial chaos expansion"
+    ],
+    [
+      "Aristo",
+      "minimum mean square"
+    ],
+    [
+      "Sienna",
+      "deterministic policy gradient"
+    ],
+    [
+      "Spectrum Power",
+      "value function approximation"
+    ],
+    [
+      "TARA",
+      "actor-critic methods"
+    ],
+    [
+      "Trimble NIS",
+      "evolutionary algorithms"
+    ],
+    [
+      "GridLAB-D",
+      "residual neural network"
+    ],
+    [
+      "Synergi Electric",
+      "particle filter"
+    ],
+    [
+      "PyPSA (Python for Power System Analysis)",
+      "bayesian inference"
+    ],
+    [
+      "MARS",
+      "predictive controller"
+    ],
+    [
+      "PLEXOS",
+      "hamiltonian monte carlo"
+    ],
+    [
+      "Aristo",
+      "probabilistic power flow"
+    ],
+    [
+      "MARS",
+      "polynomial chaos expansion"
+    ],
+    [
+      "Matlab & Simulink",
+      "distributed reinforcement learning"
+    ],
+    [
+      "Hitachi Network Manager",
+      "policy gradient methods"
+    ],
+    [
+      "Sienna",
+      "multi-agent deep reinforcement learning"
+    ],
+    [
+      "Aristo",
+      "voltage reactive power"
+    ],
+    [
+      "Trimble NIS",
+      "optimal transmission switching"
+    ],
+    [
+      "GridLAB-D",
+      "off-policy learning"
+    ],
+    [
+      "POWSYBL",
+      "federated learning"
+    ],
+    [
+      "POWSYBL",
+      "hamiltonian monte carlo"
+    ],
+    [
+      "MARS",
+      "branch and bound"
+    ],
+    [
+      "PyPower/Pandapower",
+      "trust region policy optimization"
+    ],
+    [
+      "MathPower",
+      "bayesian model averaging"
+    ],
+    [
+      "Trimble NIS",
+      "variational bayesian"
+    ],
+    [
+      "Matlab & Simulink",
+      "bayesian model averaging"
+    ],
+    [
+      "DYMOLA",
+      "soft actor-critic"
+    ],
+    [
+      "DYMOLA",
+      "importance sampling"
+    ],
+    [
+      "Aristo",
+      "variational bayesian"
+    ],
+    [
+      "PLEXOS",
+      "bayesian automatic relevance determination"
+    ],
+    [
+      "DYMOLA",
+      "asynchronous advantage actor-critic"
+    ],
+    [
+      "OpenDSS",
+      "variational bayesian"
+    ],
+    [
+      "DYMOLA",
+      "benders decomposition"
+    ],
+    [
+      "MARS",
+      "importance sampling"
+    ],
+    [
+      "CIMPLICITY Scada",
+      "naive bayes"
+    ],
+    [
+      "Netbas",
+      "cross validation"
+    ],
+    [
+      "Gridview",
+      "on-policy learning"
+    ],
+    [
+      "NEPLAN",
+      "transient stability analysis"
+    ],
+    [
+      "MARS",
+      "benders decomposition"
+    ],
+    [
+      "Trimble NIS",
+      "importance sampling"
+    ],
+    [
+      "DYMOLA",
+      "twin delayed deep deterministic policy gradient"
+    ],
+    [
+      "PLEXOS",
+      "attention mechanism"
+    ],
+    [
+      "Aristo",
+      "importance sampling"
+    ],
+    [
+      "POWSYBL",
+      "bayesian inference"
+    ],
+    [
+      "Aristo",
+      "load balancing"
+    ],
+    [
+      "OpenDSS",
+      "importance sampling"
+    ],
+    [
+      "PSAT",
+      "finite element method"
+    ],
+    [
+      "Matlab & Simulink",
+      "physics-informed neural networks"
+    ],
+    [
+      "GridLAB-D",
+      "column generation"
+    ],
+    [
+      "Gridview",
+      "continuation power flow"
+    ],
+    [
+      "MathPower",
+      "advantage actor-critic"
+    ],
+    [
+      "eTerra",
+      "centralized training decentralized execution"
+    ],
+    [
+      "GAMS",
+      "optimal transmission switching"
+    ],
+    [
+      "PSAT",
+      "bayesian automatic relevance determination"
+    ],
+    [
+      "MARS",
+      "hierarchical reinforcement learning"
+    ],
+    [
+      "Hitachi Network Manager",
+      "bayesian belief networks"
+    ],
+    [
+      "Sienna",
+      "energy production forecasting"
+    ],
+    [
+      "Netbas",
+      "gibbs sampling"
+    ],
+    [
+      "PSSE/SINCAL",
+      "soft actor-critic"
+    ],
+    [
+      "OpenDSS",
+      "bayesian regression"
+    ],
+    [
+      "TARA",
+      "small signal stability"
+    ],
+    [
+      "OpenDSS",
+      "extreme learning machine"
+    ],
+    [
+      "NEPLAN",
+      "bayesian compressed sensing"
+    ],
+    [
+      "Spectrum Power",
+      "maximum a posteriori estimation"
+    ],
+    [
+      "Dynawo",
+      "autoencoder"
+    ],
+    [
+      "Dynawo",
+      "latin hypercube sampling"
+    ],
+    [
+      "PSSE/SINCAL",
+      "asynchronous advantage actor-critic"
+    ],
+    [
+      "Dynawo",
+      "transient stability analysis"
+    ],
+    [
+      "PLEXOS",
+      "economic dispatch"
+    ],
+    [
+      "Spectrum Power",
+      "recurrent neural network"
+    ],
+    [
+      "PyPower/Pandapower",
+      "naive bayes"
+    ],
+    [
+      "Matlab & Simulink",
+      "continuation power flow"
+    ],
+    [
+      "GridCal Sk",
+      "bayesian automatic relevance determination"
+    ],
+    [
+      "PyPSA (Python for Power System Analysis)",
+      "advantage actor-critic"
+    ],
+    [
+      "PLEXOS",
+      "evolution algorithm"
+    ],
+    [
+      "OpenDSS",
+      "bayesian information criterion"
+    ],
+    [
+      "DYMOLA",
+      "centralized training decentralized execution"
+    ],
+    [
+      "Gridview",
+      "evolutionary algorithms"
+    ],
+    [
+      "PSAT",
+      "distributed reinforcement learning"
+    ],
+    [
+      "Sienna",
+      "network topology optimization"
+    ],
+    [
+      "Power Factory Digisilent",
+      "multi-agent reinforcement learning"
+    ],
+    [
+      "Hitachi Network Manager",
+      "transfer learning"
+    ],
+    [
+      "POWSYBL",
+      "gibbs sampling"
+    ],
+    [
+      "eTerra",
+      "particle filter"
+    ],
+    [
+      "Dynawo",
+      "bayesian compressed sensing"
+    ],
+    [
+      "MathPower",
+      "deterministic policy gradient"
+    ],
+    [
+      "Sienna",
+      "data mining"
+    ],
+    [
+      "CIMPLICITY Scada",
+      "extreme learning machine"
+    ],
+    [
+      "PSS/E",
+      "multi-agent reinforcement learning"
+    ],
+    [
+      "OpenDSS",
+      "residual neural network"
+    ],
+    [
+      "Aristo",
+      "robust optimization"
+    ],
+    [
+      "Power Factory Digisilent",
+      "polynomial chaos expansion"
+    ],
+    [
+      "MathPower",
+      "multi-agent deep reinforcement learning"
+    ],
+    [
+      "PLEXOS",
+      "physics-informed neural networks"
+    ],
+    [
+      "Aristo",
+      "energy consumption modeling"
+    ],
+    [
+      "GridCal Sk",
+      "distributed reinforcement learning"
+    ],
+    [
+      "Gridview",
+      "multiobjective optimization"
+    ],
+    [
+      "Power Factory Digisilent",
+      "variational bayesian"
+    ],
+    [
+      "OpenDSS",
+      "off-policy learning"
+    ],
+    [
+      "NEPLAN",
+      "attention mechanism"
+    ],
+    [
+      "PyPower/Pandapower",
+      "twin delayed deep deterministic policy gradient"
+    ],
+    [
+      "PyPower/Pandapower",
+      "extreme learning machine"
+    ],
+    [
+      "Sienna",
+      "bayesian networks"
+    ],
+    [
+      "Sienna",
+      "loss of load probability"
+    ],
+    [
+      "Aristo",
+      "reactive power sharing"
+    ],
+    [
+      "Hitachi Network Manager",
+      "large language model"
+    ],
+    [
+      "Hitachi Network Manager",
+      "bayesian deep learning"
+    ],
+    [
+      "MARS",
+      "forced outage rate"
+    ],
+    [
+      "DYMOLA",
+      "particle filter"
+    ],
+    [
+      "PLEXOS",
+      "transfer learning"
+    ],
+    [
+      "Gridview",
+      "effective load carrying capability elcc"
+    ],
+    [
+      "CIMPLICITY Scada",
+      "residual neural network"
+    ],
+    [
+      "Power Factory Digisilent",
+      "importance sampling"
+    ],
+    [
+      "Hitachi Network Manager",
+      "evolutionary algorithms"
+    ],
+    [
+      "MARS",
+      "column generation"
+    ],
+    [
+      "Netbas",
+      "deterministic policy gradient"
+    ],
+    [
+      "Gridview",
+      "transient stability analysis"
+    ],
+    [
+      "DYMOLA",
+      "actor-critic methods"
+    ],
+    [
+      "Trimble NIS",
+      "particle filter"
+    ],
+    [
+      "Hitachi Network Manager",
+      "polynomial chaos expansion"
+    ],
+    [
+      "Power Factory Digisilent",
+      "bayesian regression"
+    ],
+    [
+      "Power Factory Digisilent",
+      "extreme learning machine"
+    ],
+    [
+      "Dynawo",
+      "attention mechanism"
+    ],
+    [
+      "Gridview",
+      "scenario analysis"
+    ],
+    [
+      "MARS",
+      "actor-critic methods"
+    ],
+    [
+      "MARS",
+      "grid failure modeling"
+    ],
+    [
+      "OpenDSS",
+      "column generation"
+    ],
+    [
+      "PLEXOS",
+      "process regression"
+    ],
+    [
+      "Matlab & Simulink",
+      "soft actor-critic"
+    ],
+    [
+      "Matlab & Simulink",
+      "deep learning"
+    ],
+    [
+      "Aristo",
+      "zero energy"
+    ],
+    [
+      "PSS/E",
+      "bayesian regression"
+    ],
+    [
+      "PSS/E",
+      "extreme learning machine"
+    ],
+    [
+      "Gridview",
+      "convex optimization"
+    ],
+    [
+      "GridCal Sk",
+      "physics-informed neural networks"
+    ],
+    [
+      "PLEXOS",
+      "bayesian deep learning"
+    ],
+    [
+      "Aristo",
+      "tabu search"
+    ],
+    [
+      "Gridview",
+      "deep reinforcement learning"
+    ],
+    [
+      "Power Factory Digisilent",
+      "bayesian information criterion"
+    ],
+    [
+      "Synergi Electric",
+      "extreme learning machine"
+    ],
+    [
+      "NEPLAN",
+      "bayesian belief networks"
+    ],
+    [
+      "Synergi Electric",
+      "recurrent neural network"
+    ],
+    [
+      "eTerra",
+      "multi-agent actor-critic"
+    ],
+    [
+      "PSSE/SINCAL",
+      "bayesian neural networks"
+    ],
+    [
+      "eTerra",
+      "small signal stability"
+    ],
+    [
+      "PSS/E",
+      "bayesian information criterion"
+    ],
+    [
+      "GridCal Sk",
+      "transfer learning"
+    ],
+    [
+      "Power Factory Digisilent",
+      "residual neural network"
+    ],
+    [
+      "Matlab & Simulink",
+      "convex optimization"
+    ],
+    [
+      "TARA",
+      "latin hypercube sampling"
+    ],
+    [
+      "PyPSA (Python for Power System Analysis)",
+      "asynchronous advantage actor-critic"
+    ],
+    [
+      "TARA",
+      "residual neural network"
+    ],
+    [
+      "PSS/E",
+      "residual neural network"
+    ],
+    [
+      "NEPLAN",
+      "multi-agent deep deterministic policy gradient"
+    ],
+    [
+      "GAMS",
+      "bayesian neural networks"
+    ],
+    [
+      "Power Factory Digisilent",
+      "off-policy learning"
+    ],
+    [
+      "NEPLAN",
+      "on-policy learning"
+    ],
+    [
+      "eTerra",
+      "transformer neural network"
+    ],
+    [
+      "Dynawo",
+      "bayesian belief networks"
+    ],
+    [
+      "Hitachi Network Manager",
+      "convex optimization"
+    ],
+    [
+      "TARA",
+      "off-policy learning"
+    ],
+    [
+      "PSS/E",
+      "off-policy learning"
+    ],
+    [
+      "DYMOLA",
+      "multi-agent actor-critic"
+    ],
+    [
+      "PLEXOS",
+      "soft actor-critic"
+    ],
+    [
+      "DYMOLA",
+      "small signal stability"
+    ],
+    [
+      "PLEXOS",
+      "importance sampling"
+    ],
+    [
+      "Spectrum Power",
+      "gibbs sampling"
+    ],
+    [
+      "Spectrum Power",
+      "bayesian model averaging"
+    ],
+    [
+      "PLEXOS",
+      "asynchronous advantage actor-critic"
+    ],
+    [
+      "Aristo",
+      "optimal utilization"
+    ],
+    [
+      "Netbas",
+      "bootstrap method"
+    ],
+    [
+      "Synergi Electric",
+      "off-policy learning"
+    ],
+    [
+      "GridCal Sk",
+      "evolutionary algorithms"
+    ],
+    [
+      "Sienna",
+      "on-policy learning"
+    ],
+    [
+      "PLEXOS",
+      "proton exchange membrane"
+    ],
+    [
+      "GAMS",
+      "bayesian belief networks"
+    ],
+    [
+      "MathPower",
+      "bayesian networks"
+    ],
+    [
+      "Sienna",
+      "trust region policy optimization"
+    ],
+    [
+      "Gridview",
+      "dynamic reactive power compensation"
+    ],
+    [
+      "Dynawo",
+      "on-policy learning"
+    ],
+    [
+      "PLEXOS",
+      "twin delayed deep deterministic policy gradient"
+    ],
+    [
+      "DYMOLA",
+      "transformer neural network"
+    ],
+    [
+      "PSSE/SINCAL",
+      "trust region policy optimization"
+    ],
+    [
+      "Power Factory Digisilent",
+      "column generation"
+    ],
+    [
+      "PSAT",
+      "deep learning"
+    ],
+    [
+      "Sienna",
+      "metropolis-hastings"
+    ],
+    [
+      "PSSE/SINCAL",
+      "proximal policy optimization"
+    ],
+    [
+      "DYMOLA",
+      "multi-agent reinforcement learning"
+    ],
+    [
+      "PSS/E",
+      "column generation"
+    ],
+    [
+      "PyPower/Pandapower",
+      "cross validation"
+    ],
+    [
+      "NEPLAN",
+      "evolutionary algorithms"
+    ],
+    [
+      "Aristo",
+      "sequential monte carlo"
+    ],
+    [
+      "Spectrum Power",
+      "advantage actor-critic"
+    ],
+    [
+      "PSSE/SINCAL",
+      "metropolis-hastings"
+    ],
+    [
+      "Gridview",
+      "contingency analysis"
+    ],
+    [
+      "TARA",
+      "bayesian automatic relevance determination"
+    ],
+    [
+      "GAMS",
+      "trust region policy optimization"
+    ],
+    [
+      "eTerra",
+      "benders decomposition"
+    ],
+    [
+      "Synergi Electric",
+      "column generation"
+    ],
+    [
+      "GridCal Sk",
+      "soft actor-critic"
+    ],
+    [
+      "MathPower",
+      "distributed reinforcement learning"
+    ],
+    [
+      "NEPLAN",
+      "optimal transmission switching"
+    ],
+    [
+      "DYMOLA",
+      "branch and bound"
+    ],
+    [
+      "eTerra",
+      "extreme learning machine"
+    ],
+    [
+      "PSAT",
+      "convex optimization"
+    ],
+    [
+      "Dynawo",
+      "bayesian deep learning"
+    ],
+    [
+      "PLEXOS",
+      "generative adversarial network"
+    ],
+    [
+      "Sienna",
+      "probabilistic power flow"
+    ],
+    [
+      "Matlab & Simulink",
+      "bayesian neural networks"
+    ],
+    [
+      "Gridview",
+      "bayesian belief networks"
+    ],
+    [
+      "PyPower/Pandapower",
+      "gibbs sampling"
+    ],
+    [
+      "GridCal Sk",
+      "transient stability analysis"
+    ],
+    [
+      "Spectrum Power",
+      "continuation power flow"
+    ],
+    [
+      "NEPLAN",
+      "variational bayesian"
+    ],
+    [
+      "PLEXOS",
+      "centralized training decentralized execution"
+    ],
+    [
+      "GridLAB-D",
+      "bayesian compressed sensing"
+    ],
+    [
+      "Sienna",
+      "optimal transmission switching"
+    ],
+    [
+      "Gridview",
+      "capacity outage probability table"
+    ],
+    [
+      "CIMPLICITY Scada",
+      "multi-agent deep deterministic policy gradient"
+    ],
+    [
+      "eTerra",
+      "bayesian information criterion"
+    ],
+    [
+      "GridCal Sk",
+      "convex optimization"
+    ],
+    [
+      "NEPLAN",
+      "importance sampling"
+    ],
+    [
+      "MARS",
+      "data-driven optimization"
+    ],
+    [
+      "Spectrum Power",
+      "deterministic policy gradient"
+    ],
+    [
+      "PyPSA (Python for Power System Analysis)",
+      "bayesian neural networks"
+    ],
+    [
+      "MARS",
+      "dynamic voltage restorer"
+    ],
+    [
+      "DYMOLA",
+      "maximum a posteriori estimation"
+    ],
+    [
+      "Gridview",
+      "fuzzy logic control"
+    ],
+    [
+      "eTerra",
+      "residual neural network"
+    ],
+    [
+      "PSAT",
+      "centralized training decentralized execution"
+    ],
+    [
+      "PLEXOS",
+      "k-means clustering"
+    ],
+    [
+      "DYMOLA",
+      "hierarchical reinforcement learning"
+    ],
+    [
+      "GAMS",
+      "naive bayes"
+    ],
+    [
+      "Trimble NIS",
+      "bayesian regression"
+    ],
+    [
+      "Trimble NIS",
+      "extreme learning machine"
+    ],
+    [
+      "Gridview",
+      "multi-agent actor-critic"
+    ],
+    [
+      "Sienna",
+      "asynchronous advantage actor-critic"
+    ],
+    [
+      "Gridview",
+      "small signal stability"
+    ],
+    [
+      "PLEXOS",
+      "particle filter"
+    ],
+    [
+      "MathPower",
+      "multi-agent deep deterministic policy gradient"
+    ],
+    [
+      "Aristo",
+      "extreme learning machine"
+    ],
+    [
+      "Netbas",
+      "bayesian model averaging"
+    ],
+    [
+      "Trimble NIS",
+      "recurrent neural network"
+    ],
+    [
+      "Dynawo",
+      "importance sampling"
+    ],
+    [
+      "Aristo",
+      "load frequency control"
+    ],
+    [
+      "Aristo",
+      "recurrent neural network"
+    ],
+    [
+      "GridCal Sk",
+      "centralized training decentralized execution"
+    ],
+    [
+      "MathPower",
+      "trust region policy optimization"
+    ],
+    [
+      "Sienna",
+      "scenario analysis"
+    ],
+    [
+      "PLEXOS",
+      "grid failure modeling"
+    ],
+    [
+      "Matlab & Simulink",
+      "proximal policy optimization"
+    ],
+    [
+      "GridLAB-D",
+      "attention mechanism"
+    ],
+    [
+      "Trimble NIS",
+      "bayesian information criterion"
+    ],
+    [
+      "PSSE/SINCAL",
+      "twin delayed deep deterministic policy gradient"
+    ],
+    [
+      "Gridview",
+      "bayesian deep learning"
+    ],
+    [
+      "Aristo",
+      "load shifting"
+    ],
+    [
+      "MARS",
+      "simulated annealing"
+    ],
+    [
+      "Gridview",
+      "transformer neural network"
+    ],
+    [
+      "Aristo",
+      "power forecasting"
+    ],
+    [
+      "Matlab & Simulink",
+      "multi-agent actor-critic"
+    ],
+    [
+      "Matlab & Simulink",
+      "small signal stability"
+    ],
+    [
+      "PSSE/SINCAL",
+      "hierarchical reinforcement learning"
+    ],
+    [
+      "TARA",
+      "on-policy learning"
+    ],
+    [
+      "PyPower/Pandapower",
+      "deterministic policy gradient"
+    ],
+    [
+      "MathPower",
+      "sparse bayesian learning"
+    ],
+    [
+      "PLEXOS",
+      "gated recurrent unit"
+    ],
+    [
+      "GridCal Sk",
+      "policy gradient methods"
+    ],
+    [
+      "PyPSA (Python for Power System Analysis)",
+      "trust region policy optimization"
+    ],
+    [
+      "CIMPLICITY Scada",
+      "optimal transmission switching"
+    ],
+    [
+      "Gridview",
+      "predictive controller"
+    ],
+    [
+      "PLEXOS",
+      "optimal power flow"
+    ],
+    [
+      "PyPower/Pandapower",
+      "multi-agent deep reinforcement learning"
+    ],
+    [
+      "TARA",
+      "continuation power flow"
+    ],
+    [
+      "Gridview",
+      "polynomial chaos expansion"
+    ],
+    [
+      "Synergi Electric",
+      "multi-agent deep deterministic policy gradient"
+    ],
+    [
+      "Netbas",
+      "multi-agent deep deterministic policy gradient"
+    ],
+    [
+      "Hitachi Network Manager",
+      "multi-agent actor-critic"
+    ],
+    [
+      "Netbas",
+      "on-policy learning"
+    ],
+    [
+      "Hitachi Network Manager",
+      "small signal stability"
+    ],
+    [
+      "Matlab & Simulink",
+      "bayesian deep learning"
+    ],
+    [
+      "Trimble NIS",
+      "off-policy learning"
+    ],
+    [
+      "Matlab & Simulink",
+      "transformer neural network"
+    ],
+    [
+      "GridCal Sk",
+      "expectation maximization"
+    ],
+    [
+      "PyPSA (Python for Power System Analysis)",
+      "metropolis-hastings"
+    ],
+    [
+      "MARS",
+      "bayesian compressed sensing"
+    ],
+    [
+      "eTerra",
+      "actor-critic methods"
+    ],
+    [
+      "Aristo",
+      "bootstrap method"
+    ],
+    [
+      "Aristo",
+      "off-policy learning"
+    ],
+    [
+      "DYMOLA",
+      "hamiltonian monte carlo"
+    ],
+    [
+      "MARS",
+      "deep deterministic policy gradient"
+    ],
+    [
+      "PSSE/SINCAL",
+      "robust optimization"
+    ],
+    [
+      "POWSYBL",
+      "physics-informed neural networks"
+    ],
+    [
+      "MARS",
+      "congestion management"
+    ],
+    [
+      "OpenDSS",
+      "bayesian compressed sensing"
+    ],
+    [
+      "Hitachi Network Manager",
+      "transformer neural network"
+    ],
+    [
+      "MathPower",
+      "optimal transmission switching"
+    ],
+    [
+      "CIMPLICITY Scada",
+      "autoencoder"
+    ],
+    [
+      "CIMPLICITY Scada",
+      "latin hypercube sampling"
+    ],
+    [
+      "GridLAB-D",
+      "bayesian belief networks"
+    ],
+    [
+      "DYMOLA",
+      "column generation"
+    ],
+    [
+      "Aristo",
+      "data mining"
+    ],
+    [
+      "CIMPLICITY Scada",
+      "transient stability analysis"
+    ],
+    [
+      "Aristo",
+      "security-constrained optimal power flow"
+    ],
+    [
+      "PLEXOS",
+      "proximal policy optimization"
+    ],
+    [
+      "Hitachi Network Manager",
+      "multi-agent reinforcement learning"
+    ],
+    [
+      "MathPower",
+      "variational bayesian"
+    ],
+    [
+      "PLEXOS",
+      "small signal stability"
+    ],
+    [
+      "DYMOLA",
+      "bayesian inference"
+    ],
+    [
+      "POWSYBL",
+      "transfer learning"
+    ],
+    [
+      "PLEXOS",
+      "principal component analysis"
+    ],
+    [
+      "Trimble NIS",
+      "column generation"
+    ],
+    [
+      "MARS",
+      "fault tree analysis"
+    ],
+    [
+      "Gridview",
+      "power factor correction"
+    ],
+    [
+      "Gridview",
+      "bayesian regression"
+    ],
+    [
+      "Aristo",
+      "column generation"
+    ],
+    [
+      "MARS",
+      "bayesian inference"
+    ],
+    [
+      "MathPower",
+      "deep learning"
+    ],
+    [
+      "PyPower/Pandapower",
+      "autoencoder"
+    ],
+    [
+      "PyPower/Pandapower",
+      "latin hypercube sampling"
+    ],
+    [
+      "GridLAB-D",
+      "multi-agent deep deterministic policy gradient"
+    ],
+    [
+      "PyPSA (Python for Power System Analysis)",
+      "naive bayes"
+    ],
+    [
+      "GridLAB-D",
+      "on-policy learning"
+    ],
+    [
+      "PLEXOS",
+      "value function approximation"
+    ],
+    [
+      "Spectrum Power",
+      "bayesian networks"
+    ],
+    [
+      "Gridview",
+      "particle swarm optimization"
+    ],
+    [
+      "Sienna",
+      "generalized autoregressive conditional heteroskedasticity"
+    ],
+    [
+      "PLEXOS",
+      "transformer neural network"
+    ],
+    [
+      "MARS",
+      "attention mechanism"
+    ],
+    [
+      "Matlab & Simulink",
+      "benders decomposition"
+    ],
+    [
+      "MARS",
+      "extended kalman filter"
+    ],
+    [
+      "Sienna",
+      "zero energy"
+    ],
+    [
+      "Dynawo",
+      "particle filter"
+    ],
+    [
+      "Sienna",
+      "bayesian neural networks"
+    ],
+    [
+      "PSAT",
+      "multi-agent actor-critic"
+    ],
+    [
+      "Netbas",
+      "optimal transmission switching"
+    ],
+    [
+      "Synergi Electric",
+      "optimal transmission switching"
+    ],
+    [
+      "PSAT",
+      "small signal stability"
+    ],
+    [
+      "Gridview",
+      "dc power flow"
+    ],
+    [
+      "Gridview",
+      "bayesian information criterion"
+    ],
+    [
+      "PyPower/Pandapower",
+      "bootstrap method"
+    ],
+    [
+      "PyPSA (Python for Power System Analysis)",
+      "energy pricing strategy"
+    ],
+    [
+      "PLEXOS",
+      "multi-agent reinforcement learning"
+    ],
+    [
+      "POWSYBL",
+      "bayesian deep learning"
+    ],
+    [
+      "Power Factory Digisilent",
+      "latin hypercube sampling"
+    ],
+    [
+      "Dynawo",
+      "actor-critic methods"
+    ],
+    [
+      "PLEXOS",
+      "predictive controller"
+    ],
+    [
+      "Gridview",
+      "residual neural network"
+    ],
+    [
+      "TARA",
+      "autoencoder"
+    ],
+    [
+      "PSAT",
+      "value function approximation"
+    ],
+    [
+      "TARA",
+      "transient stability analysis"
+    ],
+    [
+      "PSAT",
+      "bayesian deep learning"
+    ],
+    [
+      "GridCal Sk",
+      "small signal stability"
+    ],
+    [
+      "PSAT",
+      "transformer neural network"
+    ],
+    [
+      "PSS/E",
+      "transient stability analysis"
+    ],
+    [
+      "Hitachi Network Manager",
+      "bayesian regression"
+    ],
+    [
+      "PLEXOS",
+      "failure mode effects analysis"
+    ],
+    [
+      "Matlab & Simulink",
+      "dc power flow"
+    ],
+    [
+      "PLEXOS",
+      "branch and bound"
+    ],
+    [
+      "PyPSA (Python for Power System Analysis)",
+      "failure statistical modeling"
+    ],
+    [
+      "PyPSA (Python for Power System Analysis)",
+      "twin delayed deep deterministic policy gradient"
+    ],
+    [
+      "Sienna",
+      "cross validation"
+    ],
+    [
+      "Spectrum Power",
+      "distributed reinforcement learning"
+    ],
+    [
+      "Gridview",
+      "real-time data analysis"
+    ],
+    [
+      "Netbas",
+      "transient stability analysis"
+    ],
+    [
+      "GridLAB-D",
+      "evolutionary algorithms"
+    ],
+    [
+      "PSSE/SINCAL",
+      "cross validation"
+    ],
+    [
+      "Gridview",
+      "frequency variation"
+    ],
+    [
+      "Power Factory Digisilent",
+      "bayesian compressed sensing"
+    ],
+    [
+      "PSAT",
+      "polynomial chaos expansion"
+    ],
+    [
+      "GridCal Sk",
+      "bayesian deep learning"
+    ],
+    [
+      "MathPower",
+      "robust optimization"
+    ],
+    [
+      "GridCal Sk",
+      "transformer neural network"
+    ],
+    [
+      "Hitachi Network Manager",
+      "dc power flow"
+    ],
+    [
+      "Hitachi Network Manager",
+      "bayesian information criterion"
+    ],
+    [
+      "PSS/E",
+      "bayesian compressed sensing"
+    ],
+    [
+      "Aristo",
+      "second-order cone"
+    ],
+    [
+      "GridLAB-D",
+      "optimal transmission switching"
+    ],
+    [
+      "DYMOLA",
+      "physics-informed neural networks"
+    ],
+    [
+      "Matlab & Simulink",
+      "centralized training decentralized execution"
+    ],
+    [
+      "PLEXOS",
+      "benders decomposition"
+    ],
+    [
+      "PSAT",
+      "branch and bound"
+    ],
+    [
+      "GridCal Sk",
+      "multi-agent reinforcement learning"
+    ],
+    [
+      "GAMS",
+      "cross validation"
+    ],
+    [
+      "POWSYBL",
+      "soft actor-critic"
+    ],
+    [
+      "MARS",
+      "physics-informed neural networks"
+    ],
+    [
+      "PLEXOS",
+      "maximum a posteriori estimation"
+    ],
+    [
+      "PSSE/SINCAL",
+      "gibbs sampling"
+    ],
+    [
+      "Synergi Electric",
+      "bayesian compressed sensing"
+    ],
+    [
+      "POWSYBL",
+      "asynchronous advantage actor-critic"
+    ],
+    [
+      "Sienna",
+      "proximal policy optimization"
+    ],
+    [
+      "GridCal Sk",
+      "polynomial chaos expansion"
+    ],
+    [
+      "POWSYBL",
+      "benders decomposition"
+    ],
+    [
+      "PLEXOS",
+      "hierarchical reinforcement learning"
+    ],
+    [
+      "PyPSA (Python for Power System Analysis)",
+      "mixed-integer programming"
+    ],
+    [
+      "Aristo",
+      "advantage actor-critic"
+    ],
+    [
+      "POWSYBL",
+      "twin delayed deep deterministic policy gradient"
+    ],
+    [
+      "Gridview",
+      "voltage scaling"
+    ],
+    [
+      "GridCal Sk",
+      "branch and bound"
+    ],
+    [
+      "Dynawo",
+      "multi-agent actor-critic"
+    ],
+    [
+      "Dynawo",
+      "small signal stability"
+    ],
+    [
+      "GAMS",
+      "gibbs sampling"
+    ],
+    [
+      "Gridview",
+      "actor-critic methods"
+    ],
+    [
+      "PSAT",
+      "benders decomposition"
+    ],
+    [
+      "MARS",
+      "transfer learning"
+    ],
+    [
+      "Aristo",
+      "multi-agent deep deterministic policy gradient"
+    ],
+    [
+      "OpenDSS",
+      "multi-agent deep deterministic policy gradient"
+    ],
+    [
+      "MathPower",
+      "expectation maximization"
+    ],
+    [
+      "GridLAB-D",
+      "transient stability analysis"
+    ],
+    [
+      "OpenDSS",
+      "on-policy learning"
+    ],
+    [
+      "MARS",
+      "markov chain monte carlo"
+    ],
+    [
+      "Gridview",
+      "maximum power point tracking"
+    ],
+    [
+      "NEPLAN",
+      "naive bayes"
+    ],
+    [
+      "Power Factory Digisilent",
+      "attention mechanism"
+    ],
+    [
+      "Hitachi Network Manager",
+      "federated learning"
+    ],
+    [
+      "CIMPLICITY Scada",
+      "bayesian belief networks"
+    ],
+    [
+      "Spectrum Power",
+      "trust region policy optimization"
+    ],
+    [
+      "PSSE/SINCAL",
+      "value function approximation"
+    ],
+    [
+      "Dynawo",
+      "transformer neural network"
+    ],
+    [
+      "PSS/E",
+      "attention mechanism"
+    ],
+    [
+      "Matlab & Simulink",
+      "actor-critic methods"
+    ],
+    [
+      "Aristo",
+      "stochastic optimization"
+    ],
+    [
+      "GridCal Sk",
+      "bayesian regression"
+    ],
+    [
+      "PSAT",
+      "dc power flow"
+    ],
+    [
+      "Sienna",
+      "naive bayes"
+    ],
+    [
+      "Synergi Electric",
+      "attention mechanism"
+    ],
+    [
+      "Spectrum Power",
+      "sparse bayesian learning"
+    ],
+    [
+      "CIMPLICITY Scada",
+      "on-policy learning"
+    ],
+    [
+      "POWSYBL",
+      "centralized training decentralized execution"
+    ],
+    [
+      "PLEXOS",
+      "bat algorithm"
+    ],
+    [
+      "CIMPLICITY Scada",
+      "trust region policy optimization"
+    ],
+    [
+      "MathPower",
+      "cross validation"
+    ],
+    [
+      "eTerra",
+      "autoencoder"
+    ],
+    [
+      "eTerra",
+      "latin hypercube sampling"
+    ],
+    [
+      "Aristo",
+      "multi-agent deep reinforcement learning"
+    ],
+    [
+      "Spectrum Power",
+      "bayesian deep learning"
+    ],
+    [
+      "GridCal Sk",
+      "dc power flow"
+    ],
+    [
+      "GridCal Sk",
+      "bayesian information criterion"
+    ],
+    [
+      "DYMOLA",
+      "injection shift factors"
+    ],
+    [
+      "Aristo",
+      "multi-objective particle swarm optimization"
+    ],
+    [
+      "Aristo",
+      "cascading failure"
+    ],
+    [
+      "NEPLAN",
+      "bayesian regression"
+    ],
+    [
+      "PSSE/SINCAL",
+      "deterministic policy gradient"
+    ],
+    [
+      "NEPLAN",
+      "extreme learning machine"
+    ],
+    [
+      "OpenDSS",
+      "evolutionary algorithms"
+    ],
+    [
+      "PLEXOS",
+      "forced outage rate"
+    ],
+    [
+      "NEPLAN",
+      "recurrent neural network"
+    ],
+    [
+      "Power Factory Digisilent",
+      "bayesian belief networks"
+    ],
+    [
+      "PSSE/SINCAL",
+      "multi-agent deep reinforcement learning"
+    ],
+    [
+      "Aristo",
+      "optimal transmission switching"
+    ],
+    [
+      "Gridview",
+      "alternating direction method"
+    ],
+    [
+      "TARA",
+      "bayesian belief networks"
+    ],
+    [
+      "OpenDSS",
+      "optimal transmission switching"
+    ],
+    [
+      "PSS/E",
+      "bayesian belief networks"
+    ],
+    [
+      "PyPSA (Python for Power System Analysis)",
+      "cross validation"
+    ],
+    [
+      "GAMS",
+      "deterministic policy gradient"
+    ],
+    [
+      "Sienna",
+      "customer average interruption frequency"
+    ],
+    [
+      "Sienna",
+      "maximum a posteriori estimation"
+    ],
+    [
+      "NEPLAN",
+      "bayesian information criterion"
+    ],
+    [
+      "MARS",
+      "soft actor-critic"
+    ],
+    [
+      "PLEXOS",
+      "actor-critic methods"
+    ],
+    [
+      "POWSYBL",
+      "particle filter"
+    ],
+    [
+      "PLEXOS",
+      "bayesian inference"
+    ],
+    [
+      "PyPower/Pandapower",
+      "metropolis-hastings"
+    ],
+    [
+      "Sienna",
+      "recurrent neural network"
+    ],
+    [
+      "Netbas",
+      "bayesian belief networks"
+    ],
+    [
+      "Dynawo",
+      "extreme learning machine"
+    ],
+    [
+      "Power Factory Digisilent",
+      "multi-agent deep deterministic policy gradient"
+    ],
+    [
+      "PSSE/SINCAL",
+      "maximum a posteriori estimation"
+    ],
+    [
+      "POWSYBL",
+      "bayesian neural networks"
+    ],
+    [
+      "NEPLAN",
+      "residual neural network"
+    ],
+    [
+      "PSS/E",
+      "multi-agent deep deterministic policy gradient"
+    ],
+    [
+      "Gridview",
+      "non-dominated sorting genetic"
+    ],
+    [
+      "PyPSA (Python for Power System Analysis)",
+      "gibbs sampling"
+    ],
+    [
+      "Spectrum Power",
+      "deep learning"
+    ],
+    [
+      "Power Factory Digisilent",
+      "transfer learning"
+    ],
+    [
+      "PSS/E",
+      "on-policy learning"
+    ],
+    [
+      "Gridview",
+      "markov chain"
+    ],
+    [
+      "Trimble NIS",
+      "transient stability analysis"
+    ],
+    [
+      "GridCal Sk",
+      "federated learning"
+    ],
+    [
+      "MARS",
+      "adaptive modulation"
+    ],
+    [
+      "Aristo",
+      "voltage stability"
+    ],
+    [
+      "Spectrum Power",
+      "asynchronous advantage actor-critic"
+    ],
+    [
+      "Trimble NIS",
+      "markov decision process"
+    ],
+    [
+      "Gridview",
+      "dynamic pricing"
+    ],
+    [
+      "NEPLAN",
+      "off-policy learning"
+    ],
+    [
+      "PSS/E",
+      "transfer learning"
+    ]
+  ],
+  "total_completed": 630,
+  "total_results": 0
+}
